@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1345311/tomcat/tc7.0.x/trunk/test/org/apache/jasper/compiler
+END
+TestParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1215122/tomcat/tc7.0.x/trunk/test/org/apache/jasper/compiler/TestParser.java
+END
+TestParserNoStrictWhitespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1198567/tomcat/tc7.0.x/trunk/test/org/apache/jasper/compiler/TestParserNoStrictWhitespace.java
+END
+TestJspDocumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1198567/tomcat/tc7.0.x/trunk/test/org/apache/jasper/compiler/TestJspDocumentParser.java
+END
+TestCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1345311/tomcat/tc7.0.x/trunk/test/org/apache/jasper/compiler/TestCompiler.java
+END
+TestAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1198567/tomcat/tc7.0.x/trunk/test/org/apache/jasper/compiler/TestAttributeParser.java
+END
+TestJspConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1198567/tomcat/tc7.0.x/trunk/test/org/apache/jasper/compiler/TestJspConfig.java
+END
+TestValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1198567/tomcat/tc7.0.x/trunk/test/org/apache/jasper/compiler/TestValidator.java
+END
+TestGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1198567/tomcat/tc7.0.x/trunk/test/org/apache/jasper/compiler/TestGenerator.java
+END
+TestScriptingVariabler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1198567/tomcat/tc7.0.x/trunk/test/org/apache/jasper/compiler/TestScriptingVariabler.java
+END

@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 49
+*.asc
+*.tmp
+maven-ant-tasks-*.jar
+mvn.properties
+
+END

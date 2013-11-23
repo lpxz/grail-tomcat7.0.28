@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/1356495/tomcat/tc7.0.x/trunk/res/maven
+END
+tomcat-util.pom
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-util.pom
+END
+tomcat-embed-logging-log4j.pom
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-embed-logging-log4j.pom
+END
+tomcat-jasper-el.pom
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-jasper-el.pom
+END
+tomcat-jasper.pom
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-jasper.pom
+END
+tomcat-i18n-es.pom
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-i18n-es.pom
+END
+tomcat-tribes.pom
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-tribes.pom
+END
+tomcat-servlet-api.pom
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1343048/tomcat/tc7.0.x/trunk/res/maven/tomcat-servlet-api.pom
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1350902/tomcat/tc7.0.x/trunk/res/maven/README.txt
+END
+tomcat-embed-jasper.pom
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-embed-jasper.pom
+END
+tomcat-catalina-jmx-remote.pom
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-catalina-jmx-remote.pom
+END
+tomcat-jdbc.pom
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-jdbc.pom
+END
+tomcat-coyote.pom
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-coyote.pom
+END
+tomcat-embed-core.pom
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-embed-core.pom
+END
+mvn-pub.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1352664/tomcat/tc7.0.x/trunk/res/maven/mvn-pub.xml
+END
+tomcat-annotations-api.pom
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-annotations-api.pom
+END
+tomcat-i18n-ja.pom
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-i18n-ja.pom
+END
+tomcat-extras-juli.pom
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-extras-juli.pom
+END
+tomcat-extras-juli-adapters.pom
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-extras-juli-adapters.pom
+END
+tomcat-catalina.pom
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-catalina.pom
+END
+tomcat-i18n-fr.pom
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-i18n-fr.pom
+END
+tomcat-catalina-ant.pom
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-catalina-ant.pom
+END
+mvn.properties.default
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1356495/tomcat/tc7.0.x/trunk/res/maven/mvn.properties.default
+END
+tomcat-embed-logging-juli.pom
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-embed-logging-juli.pom
+END
+tomcat-catalina-ha.pom
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-catalina-ha.pom
+END
+tomcat-juli.pom
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-juli.pom
+END
+tomcat-jsp-api.pom
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1343048/tomcat/tc7.0.x/trunk/res/maven/tomcat-jsp-api.pom
+END
+tomcat-catalina-ws.pom
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-catalina-ws.pom
+END
+tomcat-el-api.pom
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-el-api.pom
+END
+tomcat-dbcp.pom
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-dbcp.pom
+END
+tomcat-api.pom
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1342808/tomcat/tc7.0.x/trunk/res/maven/tomcat-api.pom
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1303588/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/channel
+END
+TestMulticastPackages.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1303588/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/channel/TestMulticastPackages.java
+END
+TestUdpPackages.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1303588/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/channel/TestUdpPackages.java
+END
+TestDataIntegrity.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1303588/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/channel/TestDataIntegrity.java
+END
+TestRemoteProcessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1303588/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/channel/TestRemoteProcessException.java
+END

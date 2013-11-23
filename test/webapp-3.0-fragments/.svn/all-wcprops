@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1345295/tomcat/tc7.0.x/trunk/test/webapp-3.0-fragments
+END
+bug51396.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0-fragments/bug51396.jsp
+END
+'singlequote2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0-fragments/'singlequote2.jsp
+END
+resourceA.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0-fragments/resourceA.jsp
+END
+warDirContext.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0-fragments/warDirContext.jsp
+END

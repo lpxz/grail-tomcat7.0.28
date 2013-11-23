@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/descriptor
+END
+JspPropertyGroupDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/descriptor/JspPropertyGroupDescriptor.java
+END
+JspConfigDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/descriptor/JspConfigDescriptor.java
+END
+TaglibDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/descriptor/TaglibDescriptor.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1300573/tomcat/tc7.0.x/trunk/res/ide-support/eclipse
+END
+eclipse.project
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/ide-support/eclipse/eclipse.project
+END
+start-tomcat.launch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/ide-support/eclipse/start-tomcat.launch
+END
+stop-tomcat.launch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/ide-support/eclipse/stop-tomcat.launch
+END
+eclipse.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1300573/tomcat/tc7.0.x/trunk/res/ide-support/eclipse/eclipse.classpath
+END
+java-compiler-errors-warnings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1298781/tomcat/tc7.0.x/trunk/res/ide-support/eclipse/java-compiler-errors-warnings.txt
+END

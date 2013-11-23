@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/util
+END
+Logs.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/util/Logs.java
+END
+TcclThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/util/TcclThreadFactory.java
+END
+ExecutorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/util/ExecutorFactory.java
+END
+UUIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/util/UUIDGenerator.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/util/LocalStrings.properties
+END
+Arrays.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/util/Arrays.java
+END
+StringManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/util/StringManager.java
+END

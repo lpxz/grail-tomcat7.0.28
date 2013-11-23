@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/fileupload/util
+END
+LimitedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/fileupload/util/LimitedInputStream.java
+END
+Closeable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/fileupload/util/Closeable.java
+END
+FileItemHeadersImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/fileupload/util/FileItemHeadersImpl.java
+END
+Streams.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/fileupload/util/Streams.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1205131/tomcat/tc7.0.x/trunk/java/org/apache/jasper/util
+END
+ExceptionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1201570/tomcat/tc7.0.x/trunk/java/org/apache/jasper/util/ExceptionUtils.java
+END
+UniqueAttributesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/util/UniqueAttributesImpl.java
+END
+Enumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1205131/tomcat/tc7.0.x/trunk/java/org/apache/jasper/util/Enumerator.java
+END
+FastRemovalDequeue.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1186054/tomcat/tc7.0.x/trunk/java/org/apache/jasper/util/FastRemovalDequeue.java
+END

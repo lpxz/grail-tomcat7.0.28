@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1242437/tomcat/tc7.0.x/trunk/java/org/apache/juli/logging
+END
+DirectJDKLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1242437/tomcat/tc7.0.x/trunk/java/org/apache/juli/logging/DirectJDKLog.java
+END
+LogConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/juli/logging/LogConfigurationException.java
+END
+LogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/juli/logging/LogFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/juli/logging/package.html
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/juli/logging/Log.java
+END

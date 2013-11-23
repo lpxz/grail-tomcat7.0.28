@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. --><project basedir="." default="build" name="tomcat7.0.28">
+    <property environment="env"/>
+    <property name="ECLIPSE_HOME" value="../../"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.7"/>
+    <property name="source" value="1.7"/>
+    <path id="JUnit 4.libraryclasspath">
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.junit_4.8.2.v4_8_2_v20110321-1705/junit.jar"/>
+        <pathelement location="${ECLIPSE_HOME}/plugins/org.hamcrest.core_1.1.0.v20090501071000.jar"/>
+    </path>
+    <path id="tomcat7.0.28.classpath">
+        <pathelement location="bin"/>
+        <pathelement location="lib/ant-1.7.1.jar"/>
+        <pathelement location="lib/com.springsource.org.apache.tools.ant.launch-1.7.1.jar"/>
+        <pathelement location="lib/commons-codec-1.3.jar"/>
+        <pathelement location="lib/commons-logging-1.1.1.jar"/>
+        <pathelement location="lib/httpclient-4.0.1.jar"/>
+        <pathelement location="lib/httpcore-4.0-beta3.jar"/>
+        <pathelement location="lib/httpmime-4.0.1.jar"/>
+        <pathelement location="lib/tools.jar"/>
+        <path refid="JUnit 4.libraryclasspath"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="java">
+                <exclude name="**/*.java"/>
+                <exclude name="org/apache/naming/factory/webservices/"/>
+                <exclude name="org/apache/naming/factory/webservices/ServiceProxy.java"/>
+                <exclude name="org/apache/naming/factory/webservices/ServiceRefFactory.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="test">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" source="${source}" target="${target}">
+            <src path="java"/>
+            <exclude name="org/apache/naming/factory/webservices/"/>
+            <exclude name="org/apache/naming/factory/webservices/ServiceProxy.java"/>
+            <exclude name="org/apache/naming/factory/webservices/ServiceRefFactory.java"/>
+            <classpath refid="tomcat7.0.28.classpath"/>
+        </javac>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" source="${source}" target="${target}">
+            <src path="test"/>
+            <classpath refid="tomcat7.0.28.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+    <target name="TOMCATMainDriver7028">
+        <java classname="driver.TOMCATMainDriver" failonerror="true" fork="yes">
+            <arg line="8 100"/>
+            <classpath refid="tomcat7.0.28.classpath"/>
+        </java>
+    </target>
+    <target name="ApplicationContextRelated">
+    	<java classname="bug53498.ApplicationContextRelated" failonerror="true" fork="yes">
+    	            <arg line="1"/>
+    	            <classpath refid="tomcat7.0.28.classpath"/>
+    	        </java>
+    	<java classname="bug53498.ApplicationContextRelated" failonerror="true" fork="yes">
+    	            <arg line="2"/>
+    	            <classpath refid="tomcat7.0.28.classpath"/>
+    	        </java>
+    	<java classname="bug53498.ApplicationContextRelated" failonerror="true" fork="yes">
+    	            <arg line="4"/>
+    	            <classpath refid="tomcat7.0.28.classpath"/>
+    	        </java>
+    	<java classname="bug53498.ApplicationContextRelated" failonerror="true" fork="yes">
+    	            <arg line="8"/>
+    	            <classpath refid="tomcat7.0.28.classpath"/>
+    	        </java>
+    	<java classname="bug53498.ApplicationContextRelated" failonerror="true" fork="yes">
+    	            <arg line="12"/>
+    	            <classpath refid="tomcat7.0.28.classpath"/>
+    	        </java>
+    	<java classname="bug53498.ApplicationContextRelated" failonerror="true" fork="yes">
+            <arg line="16"/>
+            <classpath refid="tomcat7.0.28.classpath"/>
+        </java>
+    </target>
+    <target name="tomcatbugMine">
+        <java classname="bugMine.TOMCATMainDriver" failonerror="true" fork="yes">
+            <arg line="8 100"/>
+            <classpath refid="tomcat7.0.28.classpath"/>
+        </java>
+    </target>
+</project>

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext
+END
+TagLibraryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/TagLibraryInfo.java
+END
+TagAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/TagAdapter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/package.html
+END
+JspFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/JspFragment.java
+END
+SimpleTagSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/SimpleTagSupport.java
+END
+JspIdConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/JspIdConsumer.java
+END
+SimpleTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/SimpleTag.java
+END
+BodyTagSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/BodyTagSupport.java
+END
+TagInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/TagInfo.java
+END
+TagFileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/TagFileInfo.java
+END
+BodyContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/BodyContent.java
+END
+JspTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/JspTag.java
+END
+BodyTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/BodyTag.java
+END
+IterationTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/IterationTag.java
+END
+DynamicAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/DynamicAttributes.java
+END
+TagExtraInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/TagExtraInfo.java
+END
+TagVariableInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/TagVariableInfo.java
+END
+ValidationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/ValidationMessage.java
+END
+TryCatchFinally.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/TryCatchFinally.java
+END
+VariableInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/VariableInfo.java
+END
+FunctionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/FunctionInfo.java
+END
+TagData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/TagData.java
+END
+TagLibraryValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/TagLibraryValidator.java
+END
+PageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/PageData.java
+END
+TagSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/TagSupport.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/Tag.java
+END
+TagAttributeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/tagext/TagAttributeInfo.java
+END

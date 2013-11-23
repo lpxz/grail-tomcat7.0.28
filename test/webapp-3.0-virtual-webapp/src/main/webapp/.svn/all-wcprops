@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1210012/tomcat/tc7.0.x/trunk/test/webapp-3.0-virtual-webapp/src/main/webapp
+END
+contextGetRealPath.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1210012/tomcat/tc7.0.x/trunk/test/webapp-3.0-virtual-webapp/src/main/webapp/contextGetRealPath.jsp
+END
+testTlds.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1210012/tomcat/tc7.0.x/trunk/test/webapp-3.0-virtual-webapp/src/main/webapp/testTlds.jsp
+END
+classpathGetResourceUrlThenGetStream.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1210012/tomcat/tc7.0.x/trunk/test/webapp-3.0-virtual-webapp/src/main/webapp/classpathGetResourceUrlThenGetStream.jsp
+END
+classpathGetResourceAsStream.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1210012/tomcat/tc7.0.x/trunk/test/webapp-3.0-virtual-webapp/src/main/webapp/classpathGetResourceAsStream.jsp
+END
+contextGetResource.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1210012/tomcat/tc7.0.x/trunk/test/webapp-3.0-virtual-webapp/src/main/webapp/contextGetResource.jsp
+END
+contextGetResourcePaths.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1210012/tomcat/tc7.0.x/trunk/test/webapp-3.0-virtual-webapp/src/main/webapp/contextGetResourcePaths.jsp
+END
+classpathGetResources.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1210012/tomcat/tc7.0.x/trunk/test/webapp-3.0-virtual-webapp/src/main/webapp/classpathGetResources.jsp
+END

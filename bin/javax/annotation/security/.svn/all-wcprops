@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/annotation/security
+END
+DeclareRoles.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/annotation/security/DeclareRoles.java
+END
+DenyAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/annotation/security/DenyAll.java
+END
+RunAs.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/annotation/security/RunAs.java
+END
+PermitAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/annotation/security/PermitAll.java
+END
+RolesAllowed.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/annotation/security/RolesAllowed.java
+END

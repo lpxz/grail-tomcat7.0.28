@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1353127/tomcat/tc7.0.x/trunk/test/javax/el
+END
+TestResourceBundleELResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1307514/tomcat/tc7.0.x/trunk/test/javax/el/TestResourceBundleELResolver.java
+END
+TestCompositeELResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1198554/tomcat/tc7.0.x/trunk/test/javax/el/TestCompositeELResolver.java
+END
+TestBeanELResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1353127/tomcat/tc7.0.x/trunk/test/javax/el/TestBeanELResolver.java
+END
+TestBeanELResolverVarargsInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1198554/tomcat/tc7.0.x/trunk/test/javax/el/TestBeanELResolverVarargsInvocation.java
+END

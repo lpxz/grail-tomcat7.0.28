@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1201570/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester
+END
+ArrayStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/ArrayStack.java
+END
+CallMethodRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/CallMethodRule.java
+END
+XercesParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1167396/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/XercesParser.java
+END
+SetTopRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/SetTopRule.java
+END
+Digester.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1201570/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/Digester.java
+END
+AbstractObjectCreationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/AbstractObjectCreationFactory.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/Rule.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/package.html
+END
+RuleSetBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/RuleSetBase.java
+END
+WithDefaultsRulesWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/WithDefaultsRulesWrapper.java
+END
+ObjectParamRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/ObjectParamRule.java
+END
+ObjectCreateRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/ObjectCreateRule.java
+END
+SetNextRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/SetNextRule.java
+END
+FactoryCreateRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/FactoryCreateRule.java
+END
+ObjectCreationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/ObjectCreationFactory.java
+END
+RuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/RuleSet.java
+END
+CallParamRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/CallParamRule.java
+END
+RulesBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/RulesBase.java
+END
+SetRootRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/SetRootRule.java
+END
+ParserFeatureSetterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/ParserFeatureSetterFactory.java
+END
+SetPropertyRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/SetPropertyRule.java
+END
+GenericParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1167396/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/GenericParser.java
+END
+Rules.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/Rules.java
+END
+SetPropertiesRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/SetPropertiesRule.java
+END
+PathCallParamRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/PathCallParamRule.java
+END
+NodeCreateRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/digester/NodeCreateRule.java
+END

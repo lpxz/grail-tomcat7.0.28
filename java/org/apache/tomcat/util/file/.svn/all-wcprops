@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1200165/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/file
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1200165/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/file/Constants.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/file/package.html
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/file/LocalStrings.properties
+END
+Matcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1200165/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/file/Matcher.java
+END

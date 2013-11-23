@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/asf/!svn/ver/1354686/tomcat/tc7.0.x/trunk/conf
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/conf/logging.properties
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/conf/context.xml
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1189147/tomcat/tc7.0.x/trunk/conf/server.xml
+END
+tomcat-users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/conf/tomcat-users.xml
+END
+catalina.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1344613/tomcat/tc7.0.x/trunk/conf/catalina.properties
+END
+catalina.policy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1347048/tomcat/tc7.0.x/trunk/conf/catalina.policy
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1354686/tomcat/tc7.0.x/trunk/conf/web.xml
+END

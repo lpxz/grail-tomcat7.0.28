@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1349282/tomcat/tc7.0.x/trunk/res/findbugs
+END
+filter-false-positives.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1301271/tomcat/tc7.0.x/trunk/res/findbugs/filter-false-positives.xml
+END
+filter-post-7.0.x-fixes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1349282/tomcat/tc7.0.x/trunk/res/findbugs/filter-post-7.0.x-fixes.xml
+END

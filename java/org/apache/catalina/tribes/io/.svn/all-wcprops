@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/io
+END
+ObjectReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/io/ObjectReader.java
+END
+DirectByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/io/DirectByteArrayOutputStream.java
+END
+BufferPool15Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/io/BufferPool15Impl.java
+END
+ListenCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/io/ListenCallback.java
+END
+ChannelData.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/io/ChannelData.java
+END
+BufferPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/io/BufferPool.java
+END
+ReplicationStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/io/ReplicationStream.java
+END
+XByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/io/XByteBuffer.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1188314/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/deploy
+END
+FarmWarDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/deploy/FarmWarDeployer.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/deploy/mbeans-descriptors.xml
+END
+FileMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/deploy/FileMessage.java
+END
+UndeployMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/deploy/UndeployMessage.java
+END
+WarWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/deploy/WarWatcher.java
+END
+FileChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/deploy/FileChangeListener.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/deploy/Constants.java
+END
+FileMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/deploy/FileMessageFactory.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1188314/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/deploy/LocalStrings.properties
+END

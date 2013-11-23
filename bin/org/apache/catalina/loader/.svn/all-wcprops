@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1352066/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader
+END
+WebappLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1232850/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/WebappLoader.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/LocalStrings_es.properties
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/LocalStrings_fr.properties
+END
+JdbcLeakPrevention.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/JdbcLeakPrevention.java
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/LocalStrings_ja.properties
+END
+ResourceEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/ResourceEntry.java
+END
+WebappClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1352066/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/WebappClassLoader.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/Constants.java
+END
+VirtualWebappLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1292342/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/VirtualWebappLoader.java
+END
+StandardClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1242113/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/StandardClassLoader.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1187869/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/LocalStrings.properties
+END
+StandardClassLoaderMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1242113/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/StandardClassLoaderMBean.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/loader/mbeans-descriptors.xml
+END

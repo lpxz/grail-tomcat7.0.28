@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/el
+END
+ELParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/el/ELParseException.java
+END
+FunctionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/el/FunctionMapper.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/el/package.html
+END
+ELException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/el/ELException.java
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/el/Expression.java
+END
+ExpressionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/el/ExpressionEvaluator.java
+END
+ImplicitObjectELResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/el/ImplicitObjectELResolver.java
+END
+ScopedAttributeELResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/el/ScopedAttributeELResolver.java
+END
+VariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/el/VariableResolver.java
+END

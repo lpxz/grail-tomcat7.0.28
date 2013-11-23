@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1198569/tomcat/tc7.0.x/trunk/test/webapp-3.0-servletsecurity2
+END
+protected.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0-servletsecurity2/protected.jsp
+END
+unprotected.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0-servletsecurity2/unprotected.jsp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1198561/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/transport
+END
+SocketTribesReceive.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1198561/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/transport/SocketTribesReceive.java
+END
+SocketValidateReceive.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1198561/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/transport/SocketValidateReceive.java
+END
+SocketNioSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1189808/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/transport/SocketNioSend.java
+END
+SocketReceive.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1198561/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/transport/SocketReceive.java
+END
+SocketNioReceive.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1198561/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/transport/SocketNioReceive.java
+END
+SocketNioValidateSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1198561/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/transport/SocketNioValidateSend.java
+END
+SocketSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1198561/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/transport/SocketSend.java
+END

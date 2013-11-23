@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/persistence
+END
+PersistenceContexts.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/persistence/PersistenceContexts.java
+END
+PersistenceUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/persistence/PersistenceUnit.java
+END
+PersistenceUnits.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/persistence/PersistenceUnits.java
+END
+PersistenceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/persistence/PersistenceContext.java
+END
+PersistenceProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/persistence/PersistenceProperty.java
+END
+PersistenceContextType.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/persistence/PersistenceContextType.java
+END

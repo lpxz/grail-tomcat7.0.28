@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1207695/tomcat/tc7.0.x/trunk/test/org/apache/coyote/http11/filters
+END
+TestFlushableGZIPOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1198603/tomcat/tc7.0.x/trunk/test/org/apache/coyote/http11/filters/TestFlushableGZIPOutputStream.java
+END
+bug52121-part1
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1197731/tomcat/tc7.0.x/trunk/test/org/apache/coyote/http11/filters/bug52121-part1
+END
+bug52121-part2
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1197731/tomcat/tc7.0.x/trunk/test/org/apache/coyote/http11/filters/bug52121-part2
+END
+TestChunkedInputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1207695/tomcat/tc7.0.x/trunk/test/org/apache/coyote/http11/filters/TestChunkedInputFilter.java
+END

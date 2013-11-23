@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1303588/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test
+END
+TribesTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/TribesTestSuite.java
+END
+NioSenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1198561/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/test/NioSenderTest.java
+END

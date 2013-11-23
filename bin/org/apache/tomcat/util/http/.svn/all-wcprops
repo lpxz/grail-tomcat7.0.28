@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1350306/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/package.html
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1350306/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/LocalStrings.properties
+END
+ServerCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1200183/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/ServerCookie.java
+END
+MimeHeaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1350306/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/MimeHeaders.java
+END
+Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1242374/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/Parameters.java
+END
+FastHttpDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1200184/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/FastHttpDateFormat.java
+END
+CookieSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1200183/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/CookieSupport.java
+END
+RequestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1239053/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/RequestUtil.java
+END
+HttpMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1200184/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/HttpMessages.java
+END
+ContentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1200183/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/ContentType.java
+END
+Cookies.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1242374/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/Cookies.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1233431/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/membership
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/membership/mbeans-descriptors.xml
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/membership/LocalStrings_es.properties
+END
+McastService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/membership/McastService.java
+END
+MemberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/membership/MemberImpl.java
+END
+McastServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1233431/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/membership/McastServiceImpl.java
+END
+Membership.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/membership/Membership.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/membership/Constants.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/membership/LocalStrings.properties
+END
+StaticMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/membership/StaticMember.java
+END

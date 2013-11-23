@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1349885/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1226774/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/Constants.java
+END
+JspHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/JspHelper.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1187869/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/LocalStrings.properties
+END
+ManagerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1162172/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/ManagerServlet.java
+END
+DummyProxySession.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/DummyProxySession.java
+END
+StatusManagerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/StatusManagerServlet.java
+END
+HTMLManagerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1349885/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/HTMLManagerServlet.java
+END
+JMXProxyServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1301256/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/JMXProxyServlet.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1187869/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/LocalStrings_es.properties
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/LocalStrings_fr.properties
+END
+StatusTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1348992/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/StatusTransformer.java
+END
+LocalStrings_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/LocalStrings_de.properties
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/LocalStrings_ja.properties
+END

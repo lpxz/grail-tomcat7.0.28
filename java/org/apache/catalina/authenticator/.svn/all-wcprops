@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1349321/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/mbeans-descriptors.xml
+END
+SpnegoAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/SpnegoAuthenticator.java
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/LocalStrings_ja.properties
+END
+SSLAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1189224/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/SSLAuthenticator.java
+END
+FormAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1189224/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/FormAuthenticator.java
+END
+SingleSignOn.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1188401/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/SingleSignOn.java
+END
+AuthenticatorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1241170/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/AuthenticatorBase.java
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/LocalStrings_fr.properties
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/LocalStrings_es.properties
+END
+DigestAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1349321/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/DigestAuthenticator.java
+END
+SavedRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/SavedRequest.java
+END
+BasicAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1189224/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/BasicAuthenticator.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1189224/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/Constants.java
+END
+NonLoginAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1297906/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/NonLoginAuthenticator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/package.html
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1187866/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/LocalStrings.properties
+END
+SingleSignOnEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1189224/tomcat/tc7.0.x/trunk/java/org/apache/catalina/authenticator/SingleSignOnEntry.java
+END

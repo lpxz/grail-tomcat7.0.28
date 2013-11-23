@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1304933/tomcat/tc7.0.x/trunk/java/org/apache/el
+END
+ExpressionFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/ExpressionFactoryImpl.java
+END
+Messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/Messages_es.properties
+END
+ValueExpressionLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/ValueExpressionLiteral.java
+END
+MethodExpressionLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/MethodExpressionLiteral.java
+END
+ValueExpressionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/ValueExpressionImpl.java
+END
+Messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/Messages.properties
+END
+MethodExpressionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/MethodExpressionImpl.java
+END

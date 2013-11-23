@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp
+END
+HttpJspPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/HttpJspPage.java
+END
+JspPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/JspPage.java
+END
+JspWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/JspWriter.java
+END
+JspException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/JspException.java
+END
+JspEngineInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/JspEngineInfo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/package.html
+END
+PageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/PageContext.java
+END
+JspContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/JspContext.java
+END
+SkipPageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/SkipPageException.java
+END
+ErrorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/ErrorData.java
+END
+JspFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/JspFactory.java
+END
+JspApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/JspApplicationContext.java
+END
+JspTagException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/jsp/JspTagException.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1200166/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/net/jsse
+END
+JSSESocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1200166/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/net/jsse/JSSESocketFactory.java
+END
+JSSEKeyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1200166/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/net/jsse/JSSEKeyManager.java
+END
+JSSEImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1200166/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/net/jsse/JSSEImplementation.java
+END
+NioX509KeyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1200166/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/net/jsse/NioX509KeyManager.java
+END
+JSSESupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1200166/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/net/jsse/JSSESupport.java
+END

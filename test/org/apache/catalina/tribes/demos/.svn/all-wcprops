@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1201570/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/demos
+END
+IntrospectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1201570/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/demos/IntrospectionUtils.java
+END
+MapDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1198560/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/demos/MapDemo.java
+END
+EchoRpcTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1198560/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/demos/EchoRpcTest.java
+END
+MembersWithProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1198560/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/demos/MembersWithProperties.java
+END
+ChannelCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1198560/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/demos/ChannelCreator.java
+END
+CoordinationDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1198560/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/demos/CoordinationDemo.java
+END
+LoadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1198560/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/demos/LoadTest.java
+END

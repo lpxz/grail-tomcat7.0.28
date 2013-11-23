@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/annotation
+END
+Generated.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/annotation/Generated.java
+END
+PreDestroy.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/annotation/PreDestroy.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/annotation/Resource.java
+END
+PostConstruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/annotation/PostConstruct.java
+END
+Resources.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/annotation/Resources.java
+END

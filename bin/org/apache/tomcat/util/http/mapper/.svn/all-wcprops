@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1346584/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/mapper
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1346584/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/mapper/Mapper.java
+END
+MappingData.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/mapper/MappingData.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/mapper/LocalStrings.properties
+END

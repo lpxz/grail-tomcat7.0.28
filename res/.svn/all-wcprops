@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/1356495/tomcat/tc7.0.x/trunk/res
+END
+tomcat.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1231779/tomcat/tc7.0.x/trunk/res/tomcat.nsi
+END
+tomcat.ico
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/tomcat.ico
+END
+welcome.main.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1189163/tomcat/tc7.0.x/trunk/res/welcome.main.html
+END
+header.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/header.bmp
+END
+welcome.bin.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1189163/tomcat/tc7.0.x/trunk/res/welcome.bin.html
+END
+INSTALLLICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1343047/tomcat/tc7.0.x/trunk/res/INSTALLLICENSE
+END
+side_left.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/side_left.bmp
+END

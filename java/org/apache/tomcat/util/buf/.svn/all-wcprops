@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1336870/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf
+END
+Ascii.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1228925/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/Ascii.java
+END
+StringCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1200182/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/StringCache.java
+END
+UDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1228925/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/UDecoder.java
+END
+MessageBytes.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1228925/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/MessageBytes.java
+END
+ByteChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1233424/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/ByteChunk.java
+END
+B2CConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1233424/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/B2CConverter.java
+END
+C2BConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1230240/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/C2BConverter.java
+END
+UEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1228925/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/UEncoder.java
+END
+HexUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1228925/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/HexUtils.java
+END
+CharChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1336870/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/CharChunk.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1229953/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/LocalStrings_es.properties
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1200180/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/Constants.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1200165/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/package.html
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1230240/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/buf/LocalStrings.properties
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1222856/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/Constants.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1187866/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/LocalStrings.properties
+END
+ReceiverBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/ReceiverBase.java
+END
+AbstractRxTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/AbstractRxTask.java
+END
+SenderState.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/SenderState.java
+END
+PooledSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/PooledSender.java
+END
+AbstractSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/AbstractSender.java
+END
+MultiPointSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/MultiPointSender.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/LocalStrings_es.properties
+END
+ReplicationTransmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/ReplicationTransmitter.java
+END
+RxTaskPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/RxTaskPool.java
+END
+DataSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/DataSender.java
+END

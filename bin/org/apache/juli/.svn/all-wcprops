@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1242437/tomcat/tc7.0.x/trunk/java/org/apache/juli
+END
+ClassLoaderLogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/juli/ClassLoaderLogManager.java
+END
+DateFormatCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1185021/tomcat/tc7.0.x/trunk/java/org/apache/juli/DateFormatCache.java
+END
+AsyncFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/juli/AsyncFileHandler.java
+END
+JdkLoggerFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/juli/JdkLoggerFormatter.java
+END
+FileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1162172/tomcat/tc7.0.x/trunk/java/org/apache/juli/FileHandler.java
+END
+OneLineFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1175717/tomcat/tc7.0.x/trunk/java/org/apache/juli/OneLineFormatter.java
+END
+VerbatimFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/juli/VerbatimFormatter.java
+END

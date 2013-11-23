@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1222856/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/bio
+END
+BioReplicationTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/bio/BioReplicationTask.java
+END
+BioSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/bio/BioSender.java
+END
+BioReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/bio/BioReceiver.java
+END
+PooledMultiSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/bio/PooledMultiSender.java
+END
+MultipointBioSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/bio/MultipointBioSender.java
+END

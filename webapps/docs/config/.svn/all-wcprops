@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1356047/tomcat/tc7.0.x/trunk/webapps/docs/config
+END
+resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1210012/tomcat/tc7.0.x/trunk/webapps/docs/config/resources.xml
+END
+manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1337547/tomcat/tc7.0.x/trunk/webapps/docs/config/manager.xml
+END
+ajp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1350306/tomcat/tc7.0.x/trunk/webapps/docs/config/ajp.xml
+END
+cluster-membership.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1200127/tomcat/tc7.0.x/trunk/webapps/docs/config/cluster-membership.xml
+END
+host.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1342477/tomcat/tc7.0.x/trunk/webapps/docs/config/host.xml
+END
+valve.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1351997/tomcat/tc7.0.x/trunk/webapps/docs/config/valve.xml
+END
+cluster-interceptor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1200127/tomcat/tc7.0.x/trunk/webapps/docs/config/cluster-interceptor.xml
+END
+http.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1353583/tomcat/tc7.0.x/trunk/webapps/docs/config/http.xml
+END
+cluster.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1200127/tomcat/tc7.0.x/trunk/webapps/docs/config/cluster.xml
+END
+cluster-receiver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1338160/tomcat/tc7.0.x/trunk/webapps/docs/config/cluster-receiver.xml
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1347095/tomcat/tc7.0.x/trunk/webapps/docs/config/context.xml
+END
+filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1344529/tomcat/tc7.0.x/trunk/webapps/docs/config/filter.xml
+END
+cluster-channel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1200127/tomcat/tc7.0.x/trunk/webapps/docs/config/cluster-channel.xml
+END
+cluster-manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1200127/tomcat/tc7.0.x/trunk/webapps/docs/config/cluster-manager.xml
+END
+globalresources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1200128/tomcat/tc7.0.x/trunk/webapps/docs/config/globalresources.xml
+END
+cluster-valve.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1200127/tomcat/tc7.0.x/trunk/webapps/docs/config/cluster-valve.xml
+END
+executor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1348110/tomcat/tc7.0.x/trunk/webapps/docs/config/executor.xml
+END
+cluster-sender.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1338160/tomcat/tc7.0.x/trunk/webapps/docs/config/cluster-sender.xml
+END
+service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/config/service.xml
+END
+realm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1356047/tomcat/tc7.0.x/trunk/webapps/docs/config/realm.xml
+END
+cluster-deployer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1200127/tomcat/tc7.0.x/trunk/webapps/docs/config/cluster-deployer.xml
+END
+jar-scanner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1335027/tomcat/tc7.0.x/trunk/webapps/docs/config/jar-scanner.xml
+END
+cluster-listener.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1200127/tomcat/tc7.0.x/trunk/webapps/docs/config/cluster-listener.xml
+END
+engine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1200128/tomcat/tc7.0.x/trunk/webapps/docs/config/engine.xml
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1200130/tomcat/tc7.0.x/trunk/webapps/docs/config/server.xml
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1222203/tomcat/tc7.0.x/trunk/webapps/docs/config/project.xml
+END
+loader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1292342/tomcat/tc7.0.x/trunk/webapps/docs/config/loader.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/config/index.xml
+END
+systemprops.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1224664/tomcat/tc7.0.x/trunk/webapps/docs/config/systemprops.xml
+END
+listeners.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1338179/tomcat/tc7.0.x/trunk/webapps/docs/config/listeners.xml
+END

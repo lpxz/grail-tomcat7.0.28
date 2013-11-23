@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1355811/tomcat/tc7.0.x/trunk/test/org/apache/catalina/core
+END
+TestStandardHostValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1355811/tomcat/tc7.0.x/trunk/test/org/apache/catalina/core/TestStandardHostValve.java
+END
+TestStandardContextResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1198555/tomcat/tc7.0.x/trunk/test/org/apache/catalina/core/TestStandardContextResources.java
+END
+TestStandardWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1297203/tomcat/tc7.0.x/trunk/test/org/apache/catalina/core/TestStandardWrapper.java
+END
+TestStandardContextValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1198555/tomcat/tc7.0.x/trunk/test/org/apache/catalina/core/TestStandardContextValve.java
+END
+TestAsyncContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1345689/tomcat/tc7.0.x/trunk/test/org/apache/catalina/core/TestAsyncContextImpl.java
+END
+TestDefaultInstanceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1198555/tomcat/tc7.0.x/trunk/test/org/apache/catalina/core/TestDefaultInstanceManager.java
+END
+TestStandardContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1297203/tomcat/tc7.0.x/trunk/test/org/apache/catalina/core/TestStandardContext.java
+END
+TestStandardContextAliases.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1198555/tomcat/tc7.0.x/trunk/test/org/apache/catalina/core/TestStandardContextAliases.java
+END
+TestApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1354667/tomcat/tc7.0.x/trunk/test/org/apache/catalina/core/TestApplicationContext.java
+END
+TestSwallowAbortedUploads.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1207695/tomcat/tc7.0.x/trunk/test/org/apache/catalina/core/TestSwallowAbortedUploads.java
+END
+TestNamingContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1198555/tomcat/tc7.0.x/trunk/test/org/apache/catalina/core/TestNamingContextListener.java
+END

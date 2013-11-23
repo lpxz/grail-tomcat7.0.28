@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1333116/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/threads
+END
+TaskQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1200171/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/threads/TaskQueue.java
+END
+LimitLatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1333116/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/threads/LimitLatch.java
+END
+TaskThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1200171/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/threads/TaskThread.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1200171/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/threads/Constants.java
+END
+ResizableExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1200171/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/threads/ResizableExecutor.java
+END
+ThreadPoolExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1200171/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/threads/ThreadPoolExecutor.java
+END
+TaskThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1200171/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/threads/TaskThreadFactory.java
+END

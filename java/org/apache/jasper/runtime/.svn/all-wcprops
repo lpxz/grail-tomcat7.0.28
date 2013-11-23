@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1354202/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime
+END
+JspSourceDependent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/JspSourceDependent.java
+END
+ProtectedFunctionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/ProtectedFunctionMapper.java
+END
+JspFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1354202/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/JspFactoryImpl.java
+END
+JspApplicationContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1307581/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/JspApplicationContextImpl.java
+END
+ServletResponseWrapperInclude.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/ServletResponseWrapperInclude.java
+END
+BodyContentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/BodyContentImpl.java
+END
+JspWriterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/JspWriterImpl.java
+END
+JspFragmentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/JspFragmentHelper.java
+END
+JspRuntimeLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1201570/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/JspRuntimeLibrary.java
+END
+HttpJspBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/HttpJspBase.java
+END
+InstanceManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/InstanceManagerFactory.java
+END
+JspContextWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1195962/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/JspContextWrapper.java
+END
+PerThreadTagHandlerPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/PerThreadTagHandlerPool.java
+END
+PageContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1195962/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/PageContextImpl.java
+END
+TagHandlerPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1201570/tomcat/tc7.0.x/trunk/java/org/apache/jasper/runtime/TagHandlerPool.java
+END

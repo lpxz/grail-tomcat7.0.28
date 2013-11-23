@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1301263/tomcat/tc7.0.x/trunk/test/org/apache/catalina/util
+END
+TestContextName.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1198557/tomcat/tc7.0.x/trunk/test/org/apache/catalina/util/TestContextName.java
+END
+TestRequestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1239053/tomcat/tc7.0.x/trunk/test/org/apache/catalina/util/TestRequestUtil.java
+END
+TestConversions.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1301263/tomcat/tc7.0.x/trunk/test/org/apache/catalina/util/TestConversions.java
+END
+TestServerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1198557/tomcat/tc7.0.x/trunk/test/org/apache/catalina/util/TestServerInfo.java
+END

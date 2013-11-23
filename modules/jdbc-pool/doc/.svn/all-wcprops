@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1521026/tomcat/tc7.0.x/trunk/modules/jdbc-pool/doc
+END
+package.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1428969/tomcat/tc7.0.x/trunk/modules/jdbc-pool/doc/package.xsl
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1360704/tomcat/tc7.0.x/trunk/modules/jdbc-pool/doc/project.xml
+END
+changelog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1360704/tomcat/tc7.0.x/trunk/modules/jdbc-pool/doc/changelog.xml
+END
+jdbc-pool.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1521026/tomcat/tc7.0.x/trunk/modules/jdbc-pool/doc/jdbc-pool.xml
+END

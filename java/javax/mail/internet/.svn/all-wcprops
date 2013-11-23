@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/mail/internet
+END
+MimeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/mail/internet/MimeMessage.java
+END
+InternetAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/mail/internet/InternetAddress.java
+END
+MimePart.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/mail/internet/MimePart.java
+END
+MimePartDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/mail/internet/MimePartDataSource.java
+END

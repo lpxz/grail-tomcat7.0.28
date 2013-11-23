@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1226774/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/host
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1226774/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/host/Constants.java
+END
+HostManagerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1162172/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/host/HostManagerServlet.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/host/LocalStrings.properties
+END
+HTMLHostManagerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/host/HTMLHostManagerServlet.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/host/LocalStrings_es.properties
+END

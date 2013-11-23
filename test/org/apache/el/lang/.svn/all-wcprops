@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1244574/tomcat/tc7.0.x/trunk/test/org/apache/el/lang
+END
+TestELArithmetic.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/org/apache/el/lang/TestELArithmetic.java
+END
+TestELSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1244574/tomcat/tc7.0.x/trunk/test/org/apache/el/lang/TestELSupport.java
+END

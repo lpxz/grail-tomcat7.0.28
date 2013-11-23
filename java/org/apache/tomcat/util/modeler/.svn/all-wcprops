@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1238397/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler
+END
+BaseNotificationBroadcaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/BaseNotificationBroadcaster.java
+END
+ParameterInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/ParameterInfo.java
+END
+BaseModelMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1175736/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/BaseModelMBean.java
+END
+mbeans-descriptors.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/mbeans-descriptors.dtd
+END
+ConstructorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/ConstructorInfo.java
+END
+NotificationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/NotificationInfo.java
+END
+BaseAttributeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/BaseAttributeFilter.java
+END
+FeatureInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/FeatureInfo.java
+END
+Registry.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1238397/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/Registry.java
+END
+RegistryMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/RegistryMBean.java
+END
+FixedNotificationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/FixedNotificationFilter.java
+END
+OperationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/OperationInfo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/package.html
+END
+AttributeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/AttributeInfo.java
+END
+ManagedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1176157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/ManagedBean.java
+END

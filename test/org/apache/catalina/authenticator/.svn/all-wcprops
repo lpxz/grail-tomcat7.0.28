@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1345708/tomcat/tc7.0.x/trunk/test/org/apache/catalina/authenticator
+END
+TestFormAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1207695/tomcat/tc7.0.x/trunk/test/org/apache/catalina/authenticator/TestFormAuthenticator.java
+END
+TestNonLoginAndBasicAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1345708/tomcat/tc7.0.x/trunk/test/org/apache/catalina/authenticator/TestNonLoginAndBasicAuthenticator.java
+END
+TesterDigestAuthenticatorPerformance.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1198554/tomcat/tc7.0.x/trunk/test/org/apache/catalina/authenticator/TesterDigestAuthenticatorPerformance.java
+END
+TestSSOnonLoginAndDigestAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1303166/tomcat/tc7.0.x/trunk/test/org/apache/catalina/authenticator/TestSSOnonLoginAndDigestAuthenticator.java
+END
+TestSSOnonLoginAndBasicAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1297159/tomcat/tc7.0.x/trunk/test/org/apache/catalina/authenticator/TestSSOnonLoginAndBasicAuthenticator.java
+END
+TestDigestAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1297159/tomcat/tc7.0.x/trunk/test/org/apache/catalina/authenticator/TestDigestAuthenticator.java
+END

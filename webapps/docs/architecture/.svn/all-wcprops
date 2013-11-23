@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1200126/tomcat/tc7.0.x/trunk/webapps/docs/architecture
+END
+startup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/architecture/startup.xml
+END
+overview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1200126/tomcat/tc7.0.x/trunk/webapps/docs/architecture/overview.xml
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1200126/tomcat/tc7.0.x/trunk/webapps/docs/architecture/project.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/architecture/index.xml
+END
+requestProcess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/architecture/requestProcess.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1348791/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/tipis
+END
+AbstractReplicatedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1329046/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/tipis/AbstractReplicatedMap.java
+END
+Streamable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/tipis/Streamable.java
+END
+LazyReplicatedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/tipis/LazyReplicatedMap.java
+END
+ReplicatedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/tipis/ReplicatedMap.java
+END
+ReplicatedMapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1348791/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/tipis/ReplicatedMapEntry.java
+END

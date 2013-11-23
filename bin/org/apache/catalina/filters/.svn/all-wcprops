@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1300888/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters
+END
+RemoteIpFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1205067/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/RemoteIpFilter.java
+END
+RemoteAddrFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1300888/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/RemoteAddrFilter.java
+END
+RequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1300888/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/RequestFilter.java
+END
+RemoteHostFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1300888/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/RemoteHostFilter.java
+END
+FailedRequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1200218/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/FailedRequestFilter.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/LocalStrings_es.properties
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/LocalStrings_fr.properties
+END
+RequestDumperFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1300888/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/RequestDumperFilter.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1300888/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/Constants.java
+END
+AddDefaultCharsetFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1300888/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/AddDefaultCharsetFilter.java
+END
+CsrfPreventionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1300888/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/CsrfPreventionFilter.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/LocalStrings.properties
+END
+FilterBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1300888/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/FilterBase.java
+END
+WebdavFixFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1300888/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/WebdavFixFilter.java
+END
+ExpiresFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1300888/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/ExpiresFilter.java
+END
+SetCharacterEncodingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1300888/tomcat/tc7.0.x/trunk/java/org/apache/catalina/filters/SetCharacterEncodingFilter.java
+END

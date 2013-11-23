@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1344634/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/scan
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/scan/package.html
+END
+FileUrlJar.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1344634/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/scan/FileUrlJar.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/scan/LocalStrings.properties
+END
+UrlJar.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1200170/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/scan/UrlJar.java
+END
+NonClosingJarInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1200170/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/scan/NonClosingJarInputStream.java
+END
+JarFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1200170/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/scan/JarFactory.java
+END
+StandardJarScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1200170/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/scan/StandardJarScanner.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1200170/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/scan/Constants.java
+END
+Jar.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1200170/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/scan/Jar.java
+END

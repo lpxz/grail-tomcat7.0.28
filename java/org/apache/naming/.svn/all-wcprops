@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1347095/tomcat/tc7.0.x/trunk/java/org/apache/naming
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/Constants.java
+END
+NamingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1298123/tomcat/tc7.0.x/trunk/java/org/apache/naming/NamingContext.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/package.html
+END
+NameParserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/NameParserImpl.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1298123/tomcat/tc7.0.x/trunk/java/org/apache/naming/LocalStrings.properties
+END
+TransactionRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/TransactionRef.java
+END
+ResourceRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/ResourceRef.java
+END
+NamingContextEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/NamingContextEnumeration.java
+END
+SelectorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1304471/tomcat/tc7.0.x/trunk/java/org/apache/naming/SelectorContext.java
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/LocalStrings_ja.properties
+END
+NamingEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/NamingEntry.java
+END
+ResourceEnvRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/ResourceEnvRef.java
+END
+JndiPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/JndiPermission.java
+END
+EjbRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/EjbRef.java
+END
+ServiceRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/ServiceRef.java
+END
+StringManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/StringManager.java
+END
+ResourceLinkRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/ResourceLinkRef.java
+END
+ContextBindings.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1225631/tomcat/tc7.0.x/trunk/java/org/apache/naming/ContextBindings.java
+END
+NamingContextBindingsEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/NamingContextBindingsEnumeration.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1187866/tomcat/tc7.0.x/trunk/java/org/apache/naming/LocalStrings_es.properties
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/LocalStrings_fr.properties
+END
+HandlerRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/HandlerRef.java
+END
+ContextAccessController.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/ContextAccessController.java
+END

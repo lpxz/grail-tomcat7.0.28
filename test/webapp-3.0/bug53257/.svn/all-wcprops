@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1345021/tomcat/tc7.0.x/trunk/test/webapp-3.0/bug53257
+END
+foo#bar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/test/webapp-3.0/bug53257/foo%23bar.txt
+END
+foo&bar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/test/webapp-3.0/bug53257/foo&bar.jsp
+END
+foo%bar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/test/webapp-3.0/bug53257/foo%25bar.txt
+END
+foo&bar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/test/webapp-3.0/bug53257/foo&bar.txt
+END
+foo+bar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/test/webapp-3.0/bug53257/foo+bar.jsp
+END
+foo;bar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/test/webapp-3.0/bug53257/foo%3Bbar.jsp
+END
+foo+bar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/test/webapp-3.0/bug53257/foo+bar.txt
+END
+foo;bar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/test/webapp-3.0/bug53257/foo%3Bbar.txt
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1345021/tomcat/tc7.0.x/trunk/test/webapp-3.0/bug53257/index.jsp
+END
+foo#bar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/test/webapp-3.0/bug53257/foo%23bar.jsp
+END
+foo%bar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/test/webapp-3.0/bug53257/foo%25bar.jsp
+END

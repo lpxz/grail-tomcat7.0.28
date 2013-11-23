@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/res/checkstyle
+END
+header-al2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/checkstyle/header-al2.txt
+END
+org-checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/checkstyle/org-checkstyle.xml
+END
+javax-checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/checkstyle/javax-checkstyle.xml
+END
+org-import-control.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/res/checkstyle/org-import-control.xml
+END
+checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/checkstyle/checkstyle.xml
+END
+javax-import-control.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/checkstyle/javax-import-control.xml
+END

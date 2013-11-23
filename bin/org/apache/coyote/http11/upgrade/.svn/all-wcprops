@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1349936/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/upgrade
+END
+UpgradeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1301270/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/upgrade/UpgradeProcessor.java
+END
+UpgradeAprProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1349936/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/upgrade/UpgradeAprProcessor.java
+END
+UpgradeNioProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1349936/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/upgrade/UpgradeNioProcessor.java
+END
+UpgradeInbound.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1349936/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/upgrade/UpgradeInbound.java
+END
+UpgradeOutbound.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1301270/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/upgrade/UpgradeOutbound.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1301263/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/upgrade/Constants.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1301270/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/upgrade/LocalStrings.properties
+END
+UpgradeBioProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1349936/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/upgrade/UpgradeBioProcessor.java
+END

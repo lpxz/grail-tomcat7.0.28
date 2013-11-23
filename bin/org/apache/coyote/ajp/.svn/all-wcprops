@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1353509/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp
+END
+AjpProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1301262/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp/AjpProtocol.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp/Constants.java
+END
+AjpAprProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1344253/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp/AjpAprProcessor.java
+END
+AbstractAjpProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1350306/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp/AbstractAjpProcessor.java
+END
+AjpAprProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1353509/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp/AjpAprProtocol.java
+END
+AjpMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1201088/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp/AjpMessage.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1301262/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp/LocalStrings.properties
+END
+AbstractAjpProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1301270/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp/AbstractAjpProtocol.java
+END
+AjpNioProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1301262/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp/AjpNioProcessor.java
+END
+AjpNioProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1301262/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp/AjpNioProtocol.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp/LocalStrings_es.properties
+END
+AjpProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1176592/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ajp/AjpProcessor.java
+END

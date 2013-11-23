@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1521051/tomcat/tc7.0.x/trunk/modules/jdbc-pool
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1492567/tomcat/tc7.0.x/trunk/modules/jdbc-pool/pom.xml
+END
+build.properties.default
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1492563/tomcat/tc7.0.x/trunk/modules/jdbc-pool/build.properties.default
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1492563/tomcat/tc7.0.x/trunk/modules/jdbc-pool/build.xml
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1428969/tomcat/tc7.0.x/trunk/modules/jdbc-pool/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1360704/tomcat/tc7.0.x/trunk/modules/jdbc-pool/LICENSE
+END

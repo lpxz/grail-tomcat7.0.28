@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1354202/tomcat/tc7.0.x/trunk/java/org/apache/jasper
+END
+EmbeddedServletOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/EmbeddedServletOptions.java
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/Options.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/Constants.java
+END
+JspC.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1346646/tomcat/tc7.0.x/trunk/java/org/apache/jasper/JspC.java
+END
+JspCompilationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1186262/tomcat/tc7.0.x/trunk/java/org/apache/jasper/JspCompilationContext.java
+END
+JasperException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/jasper/JasperException.java
+END

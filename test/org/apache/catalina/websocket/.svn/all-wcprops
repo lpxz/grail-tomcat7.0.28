@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1354477/tomcat/tc7.0.x/trunk/test/org/apache/catalina/websocket
+END
+TestWebSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1354477/tomcat/tc7.0.x/trunk/test/org/apache/catalina/websocket/TestWebSocket.java
+END
+TestUtf8.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1301270/tomcat/tc7.0.x/trunk/test/org/apache/catalina/websocket/TestUtf8.java
+END

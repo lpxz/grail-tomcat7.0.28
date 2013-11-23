@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1242374/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/log
+END
+UserDataHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1242374/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/log/UserDataHelper.java
+END
+SystemLogHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1200165/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/log/SystemLogHandler.java
+END
+CaptureLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/log/CaptureLog.java
+END

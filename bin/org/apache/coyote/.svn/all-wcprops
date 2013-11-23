@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1353509/tomcat/tc7.0.x/trunk/java/org/apache/coyote
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1300161/tomcat/tc7.0.x/trunk/java/org/apache/coyote/Response.java
+END
+ActionHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ActionHook.java
+END
+AsyncContextCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/AsyncContextCallback.java
+END
+ProtocolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1353509/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ProtocolHandler.java
+END
+AsyncStateMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1301262/tomcat/tc7.0.x/trunk/java/org/apache/coyote/AsyncStateMachine.java
+END
+AbstractProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1301262/tomcat/tc7.0.x/trunk/java/org/apache/coyote/AbstractProcessor.java
+END
+RequestInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/RequestInfo.java
+END
+ActionCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1301253/tomcat/tc7.0.x/trunk/java/org/apache/coyote/ActionCode.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1301255/tomcat/tc7.0.x/trunk/java/org/apache/coyote/Constants.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/LocalStrings.properties
+END
+Processor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1301262/tomcat/tc7.0.x/trunk/java/org/apache/coyote/Processor.java
+END
+Adapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/Adapter.java
+END
+RequestGroupInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/RequestGroupInfo.java
+END
+AbstractProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1353509/tomcat/tc7.0.x/trunk/java/org/apache/coyote/AbstractProtocol.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/Request.java
+END
+InputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/InputBuffer.java
+END
+OutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/OutputBuffer.java
+END

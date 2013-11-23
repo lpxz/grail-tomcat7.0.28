@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1244574/tomcat/tc7.0.x/trunk/java/org/apache/el/lang
+END
+FunctionMapperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/lang/FunctionMapperFactory.java
+END
+VariableMapperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/lang/VariableMapperFactory.java
+END
+ExpressionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/lang/ExpressionBuilder.java
+END
+ELArithmetic.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/lang/ELArithmetic.java
+END
+EvaluationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/lang/EvaluationContext.java
+END
+FunctionMapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/lang/FunctionMapperImpl.java
+END
+VariableMapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/el/lang/VariableMapperImpl.java
+END
+ELSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1244574/tomcat/tc7.0.x/trunk/java/org/apache/el/lang/ELSupport.java
+END

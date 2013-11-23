@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1347095/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources
+END
+ResourceCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1225631/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/ResourceCache.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/Constants.java
+END
+ImmutableNameNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/ImmutableNameNotFoundException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/package.html
+END
+BaseDirContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1347095/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/BaseDirContext.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/LocalStrings.properties
+END
+DirContextURLStreamHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/DirContextURLStreamHandler.java
+END
+FileDirContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1239053/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/FileDirContext.java
+END
+CacheEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/CacheEntry.java
+END
+ProxyDirContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1225631/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/ProxyDirContext.java
+END
+DirContextURLConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1344902/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/DirContextURLConnection.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/Resource.java
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/LocalStrings_ja.properties
+END
+VirtualDirContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1307600/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/VirtualDirContext.java
+END
+WARDirContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/WARDirContext.java
+END
+ResourceAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1225631/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/ResourceAttributes.java
+END
+RecyclableNamingEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/RecyclableNamingEnumeration.java
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/LocalStrings_fr.properties
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/LocalStrings_es.properties
+END
+DirContextURLStreamHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/resources/DirContextURLStreamHandlerFactory.java
+END

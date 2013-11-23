@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1348763/tomcat/tc7.0.x/trunk/test/org/apache/catalina/valves
+END
+Benchmarks.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1198557/tomcat/tc7.0.x/trunk/test/org/apache/catalina/valves/Benchmarks.java
+END
+TestRemoteIpValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1198557/tomcat/tc7.0.x/trunk/test/org/apache/catalina/valves/TestRemoteIpValve.java
+END
+TestErrorReportValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1348763/tomcat/tc7.0.x/trunk/test/org/apache/catalina/valves/TestErrorReportValve.java
+END
+TesterAccessLogValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1183606/tomcat/tc7.0.x/trunk/test/org/apache/catalina/valves/TesterAccessLogValve.java
+END

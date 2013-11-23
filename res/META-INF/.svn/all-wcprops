@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1189163/tomcat/tc7.0.x/trunk/res/META-INF
+END
+annotations-api.jar.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/META-INF/annotations-api.jar.manifest
+END
+default.notice
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/META-INF/default.notice
+END
+default.license
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/META-INF/default.license
+END
+servlet-api.jar.notice
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/META-INF/servlet-api.jar.notice
+END
+el-api.jar.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/META-INF/el-api.jar.manifest
+END
+servlet-api.jar.license
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1189163/tomcat/tc7.0.x/trunk/res/META-INF/servlet-api.jar.license
+END
+default.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/META-INF/default.manifest
+END
+servlet-api.jar.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1156179/tomcat/tc7.0.x/trunk/res/META-INF/servlet-api.jar.manifest
+END
+bootstrap.jar.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/META-INF/bootstrap.jar.manifest
+END
+jsp-api.jar.notice
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/res/META-INF/jsp-api.jar.notice
+END
+jsp-api.jar.license
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1189163/tomcat/tc7.0.x/trunk/res/META-INF/jsp-api.jar.license
+END
+jsp-api.jar.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1156179/tomcat/tc7.0.x/trunk/res/META-INF/jsp-api.jar.manifest
+END

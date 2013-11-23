@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1301255/tomcat/tc7.0.x/trunk/java/org/apache/catalina/servlets
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/servlets/LocalStrings_es.properties
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/servlets/LocalStrings_fr.properties
+END
+CGIServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1200163/tomcat/tc7.0.x/trunk/java/org/apache/catalina/servlets/CGIServlet.java
+END
+DefaultServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1301255/tomcat/tc7.0.x/trunk/java/org/apache/catalina/servlets/DefaultServlet.java
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1187869/tomcat/tc7.0.x/trunk/java/org/apache/catalina/servlets/LocalStrings_ja.properties
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1200163/tomcat/tc7.0.x/trunk/java/org/apache/catalina/servlets/Constants.java
+END
+WebdavServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1239053/tomcat/tc7.0.x/trunk/java/org/apache/catalina/servlets/WebdavServlet.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/servlets/package.html
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/servlets/LocalStrings.properties
+END

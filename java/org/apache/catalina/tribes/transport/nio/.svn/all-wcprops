@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1212120/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/nio
+END
+NioSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/nio/NioSender.java
+END
+NioReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1212120/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/nio/NioReceiver.java
+END
+PooledParallelSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/nio/PooledParallelSender.java
+END
+NioReplicationTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/nio/NioReplicationTask.java
+END
+ParallelNioSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1189808/tomcat/tc7.0.x/trunk/java/org/apache/catalina/tribes/transport/nio/ParallelNioSender.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1226774/tomcat/tc7.0.x/trunk/webapps/manager/WEB-INF/jsp
+END
+sessionsList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1226774/tomcat/tc7.0.x/trunk/webapps/manager/WEB-INF/jsp/sessionsList.jsp
+END
+401.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/manager/WEB-INF/jsp/401.jsp
+END
+403.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1200116/tomcat/tc7.0.x/trunk/webapps/manager/WEB-INF/jsp/403.jsp
+END
+sessionDetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1226774/tomcat/tc7.0.x/trunk/webapps/manager/WEB-INF/jsp/sessionDetail.jsp
+END
+404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/manager/WEB-INF/jsp/404.jsp
+END

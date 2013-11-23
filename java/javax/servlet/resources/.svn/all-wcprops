@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources
+END
+web-common_3_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/web-common_3_0.xsd
+END
+web-app_2_2.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/web-app_2_2.dtd
+END
+web-app_2_3.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/web-app_2_3.dtd
+END
+datatypes.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/datatypes.dtd
+END
+javaee_5.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/javaee_5.xsd
+END
+web-fragment_3_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/web-fragment_3_0.xsd
+END
+javaee_6.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/javaee_6.xsd
+END
+j2ee_web_services_client_1_1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+END
+j2ee_web_services_1_1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/j2ee_web_services_1_1.xsd
+END
+j2ee_1_4.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/j2ee_1_4.xsd
+END
+javaee_web_services_client_1_2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/javaee_web_services_client_1_2.xsd
+END
+javaee_web_services_client_1_3.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/javaee_web_services_client_1_3.xsd
+END
+web-app_3_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/web-app_3_0.xsd
+END
+javaee_web_services_1_2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/javaee_web_services_1_2.xsd
+END
+javaee_web_services_1_3.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/javaee_web_services_1_3.xsd
+END
+XMLSchema.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/XMLSchema.dtd
+END
+web-app_2_4.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/web-app_2_4.xsd
+END
+web-app_2_5.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/web-app_2_5.xsd
+END
+xml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/javax/servlet/resources/xml.xsd
+END

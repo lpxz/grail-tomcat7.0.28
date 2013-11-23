@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1356047/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm
+END
+DataSourceRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1348499/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/DataSourceRealm.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/Constants.java
+END
+MemoryRuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/MemoryRuleSet.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/package.html
+END
+GenericPrincipal.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1186071/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/GenericPrincipal.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1298479/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/LocalStrings.properties
+END
+JDBCRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1348499/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/JDBCRealm.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1303426/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/mbeans-descriptors.xml
+END
+UserDatabaseRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/UserDatabaseRealm.java
+END
+MemoryRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/MemoryRealm.java
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/LocalStrings_ja.properties
+END
+JAASCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/JAASCallbackHandler.java
+END
+NullRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1231313/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/NullRealm.java
+END
+RealmBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1303339/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/RealmBase.java
+END
+X509UsernameRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1298579/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/X509UsernameRetriever.java
+END
+X509SubjectDnRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1298971/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/X509SubjectDnRetriever.java
+END
+JAASRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1189224/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/JAASRealm.java
+END
+CombinedRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/CombinedRealm.java
+END
+LockOutRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/LockOutRealm.java
+END
+JNDIRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1356047/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/JNDIRealm.java
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/LocalStrings_fr.properties
+END
+JAASMemoryLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1189224/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/JAASMemoryLoginModule.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/realm/LocalStrings_es.properties
+END

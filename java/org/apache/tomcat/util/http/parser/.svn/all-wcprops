@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1345755/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser
+END
+AstSubType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1300157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/AstSubType.java
+END
+SimpleCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1300157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/SimpleCharStream.java
+END
+JJTHttpParserState.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1300157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/JJTHttpParserState.java
+END
+HttpParserTreeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1300157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/HttpParserTreeConstants.java
+END
+AstAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1300157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/AstAttribute.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1300157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/Token.java
+END
+AstValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1300157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/AstValue.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1300157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/Node.java
+END
+HttpParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1304897/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/HttpParserTokenManager.java
+END
+AstParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1345755/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/AstParameter.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1300157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/ParseException.java
+END
+HttpParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1304897/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/HttpParserConstants.java
+END
+AstType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1300157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/AstType.java
+END
+AstMediaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1345755/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/AstMediaType.java
+END
+HttpParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1345755/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/HttpParser.java
+END
+SimpleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1300157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/SimpleNode.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1300157/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/TokenMgrError.java
+END
+HttpParser.jjt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1345755/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/http/parser/HttpParser.jjt
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1353246/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx
+END
+JMXAccessorInvokeTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/JMXAccessorInvokeTask.java
+END
+JMXAccessorSetTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/JMXAccessorSetTask.java
+END
+JMXAccessorEqualsCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/JMXAccessorEqualsCondition.java
+END
+JMXAccessorGetTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/JMXAccessorGetTask.java
+END
+JMXAccessorTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/JMXAccessorTask.java
+END
+jmxaccessor.tasks
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1353246/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/jmxaccessor.tasks
+END
+JMXAccessorCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/JMXAccessorCondition.java
+END
+JMXAccessorCreateTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/JMXAccessorCreateTask.java
+END
+antlib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/antlib.xml
+END
+Arg.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/Arg.java
+END
+JMXAccessorQueryTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/JMXAccessorQueryTask.java
+END
+JMXAccessorUnregisterTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/JMXAccessorUnregisterTask.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ant/jmx/package.html
+END

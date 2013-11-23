@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1357403/tomcat/tc7.0.x/trunk/webapps/docs
+END
+windows-auth-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1338160/tomcat/tc7.0.x/trunk/webapps/docs/windows-auth-howto.xml
+END
+jndi-resources-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1342511/tomcat/tc7.0.x/trunk/webapps/docs/jndi-resources-howto.xml
+END
+ssi-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1354818/tomcat/tc7.0.x/trunk/webapps/docs/ssi-howto.xml
+END
+virtual-hosting-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1200135/tomcat/tc7.0.x/trunk/webapps/docs/virtual-hosting-howto.xml
+END
+realm-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1356047/tomcat/tc7.0.x/trunk/webapps/docs/realm-howto.xml
+END
+ssl-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1354138/tomcat/tc7.0.x/trunk/webapps/docs/ssl-howto.xml
+END
+web-socket-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1302349/tomcat/tc7.0.x/trunk/webapps/docs/web-socket-howto.xml
+END
+maven-jars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1200134/tomcat/tc7.0.x/trunk/webapps/docs/maven-jars.xml
+END
+security-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1200264/tomcat/tc7.0.x/trunk/webapps/docs/security-howto.xml
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1302349/tomcat/tc7.0.x/trunk/webapps/docs/project.xml
+END
+extras.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1200133/tomcat/tc7.0.x/trunk/webapps/docs/extras.xml
+END
+manager-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1348992/tomcat/tc7.0.x/trunk/webapps/docs/manager-howto.xml
+END
+aio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1200131/tomcat/tc7.0.x/trunk/webapps/docs/aio.xml
+END
+security-manager-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1338160/tomcat/tc7.0.x/trunk/webapps/docs/security-manager-howto.xml
+END
+cluster-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1200131/tomcat/tc7.0.x/trunk/webapps/docs/cluster-howto.xml
+END
+proxy-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1200134/tomcat/tc7.0.x/trunk/webapps/docs/proxy-howto.xml
+END
+introduction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1185627/tomcat/tc7.0.x/trunk/webapps/docs/introduction.xml
+END
+jasper-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1353245/tomcat/tc7.0.x/trunk/webapps/docs/jasper-howto.xml
+END
+monitoring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1357043/tomcat/tc7.0.x/trunk/webapps/docs/monitoring.xml
+END
+logging.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1338160/tomcat/tc7.0.x/trunk/webapps/docs/logging.xml
+END
+windows-service-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1333164/tomcat/tc7.0.x/trunk/webapps/docs/windows-service-howto.xml
+END
+jndi-datasource-examples-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1357403/tomcat/tc7.0.x/trunk/webapps/docs/jndi-datasource-examples-howto.xml
+END
+changelog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1357403/tomcat/tc7.0.x/trunk/webapps/docs/changelog.xml
+END
+building.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1232451/tomcat/tc7.0.x/trunk/webapps/docs/building.xml
+END
+setup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1354171/tomcat/tc7.0.x/trunk/webapps/docs/setup.xml
+END
+cgi-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1200131/tomcat/tc7.0.x/trunk/webapps/docs/cgi-howto.xml
+END
+balancer-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1200131/tomcat/tc7.0.x/trunk/webapps/docs/balancer-howto.xml
+END
+default-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1200133/tomcat/tc7.0.x/trunk/webapps/docs/default-servlet.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1338160/tomcat/tc7.0.x/trunk/webapps/docs/index.xml
+END
+class-loader-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1338160/tomcat/tc7.0.x/trunk/webapps/docs/class-loader-howto.xml
+END
+developers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1200133/tomcat/tc7.0.x/trunk/webapps/docs/developers.xml
+END
+html-manager-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1200133/tomcat/tc7.0.x/trunk/webapps/docs/html-manager-howto.xml
+END
+connectors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1200131/tomcat/tc7.0.x/trunk/webapps/docs/connectors.xml
+END
+mbeans-descriptor-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1200134/tomcat/tc7.0.x/trunk/webapps/docs/mbeans-descriptor-howto.xml
+END
+deployer-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1201928/tomcat/tc7.0.x/trunk/webapps/docs/deployer-howto.xml
+END
+apr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1200131/tomcat/tc7.0.x/trunk/webapps/docs/apr.xml
+END
+tomcat-docs.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1200139/tomcat/tc7.0.x/trunk/webapps/docs/tomcat-docs.xsl
+END

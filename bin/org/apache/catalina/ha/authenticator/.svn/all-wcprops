@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1298299/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/authenticator
+END
+ClusterSingleSignOn.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1298299/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/authenticator/ClusterSingleSignOn.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/authenticator/mbeans-descriptors.xml
+END
+SingleSignOnMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1298299/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/authenticator/SingleSignOnMessage.java
+END
+ClusterSingleSignOnListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1298299/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/authenticator/ClusterSingleSignOnListener.java
+END

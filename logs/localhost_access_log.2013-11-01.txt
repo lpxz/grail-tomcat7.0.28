@@ -1,0 +1,8 @@
+127.0.0.1 - - [01/Nov/2013:02:37:55 +0800] "GET /examples/jsp/jsp2/el/basic-arithmetic.jsp HTTP/1.1" 200 2152
+127.0.0.1 - - [01/Nov/2013:02:37:55 +0800] "GET /examples/jsp/jsp2/el/basic-arithmetic.jsp HTTP/1.1" 200 2152
+127.0.0.1 - - [01/Nov/2013:02:37:55 +0800] "GET /examples/jsp/num/numguess.jsp HTTP/1.1" 200 1207
+127.0.0.1 - - [01/Nov/2013:02:37:55 +0800] "GET /examples/jsp/num/numguess.jsp HTTP/1.1" 200 1207
+127.0.0.1 - - [01/Nov/2013:02:37:55 +0800] "GET /examples/servlets/servlet/HelloWorldExample HTTP/1.1" 200 347
+127.0.0.1 - - [01/Nov/2013:02:37:55 +0800] "GET /examples/servlets/servlet/HelloWorldExample HTTP/1.1" 200 347
+127.0.0.1 - - [01/Nov/2013:02:37:55 +0800] "GET /examples/servlets/servlet/RequestHeaderExample HTTP/1.1" 200 782
+127.0.0.1 - - [01/Nov/2013:02:37:55 +0800] "GET /examples/servlets/servlet/RequestHeaderExample HTTP/1.1" 200 782

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1354258/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup
+END
+UserConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1310164/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/UserConfig.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1187869/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/LocalStrings_es.properties
+END
+TldConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/TldConfig.java
+END
+EngineRuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/EngineRuleSet.java
+END
+ContextConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1352803/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/ContextConfig.java
+END
+Catalina.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1333829/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/Catalina.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/Constants.java
+END
+Bootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1311213/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/Bootstrap.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1349008/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/LocalStrings.properties
+END
+WebRuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1354258/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/WebRuleSet.java
+END
+ClassLoaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/ClassLoaderFactory.java
+END
+WebAnnotationSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1346377/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/WebAnnotationSet.java
+END
+Tomcat.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1345041/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/Tomcat.java
+END
+ContextRuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/ContextRuleSet.java
+END
+ExpandWar.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1173343/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/ExpandWar.java
+END
+CopyParentClassLoaderRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/CopyParentClassLoaderRule.java
+END
+EngineConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/EngineConfig.java
+END
+DigesterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/DigesterFactory.java
+END
+HomesUserDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/HomesUserDatabase.java
+END
+RealmRuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/RealmRuleSet.java
+END
+SetContextPropertiesRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/SetContextPropertiesRule.java
+END
+ConnectorCreateRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/ConnectorCreateRule.java
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/LocalStrings_fr.properties
+END
+Authenticators.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/Authenticators.properties
+END
+XmlErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/XmlErrorHandler.java
+END
+SetNextNamingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/SetNextNamingRule.java
+END
+Tool.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1201569/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/Tool.java
+END
+NamingRuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/NamingRuleSet.java
+END
+HostRuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/HostRuleSet.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/mbeans-descriptors.xml
+END
+PasswdUserDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/PasswdUserDatabase.java
+END
+TldRuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1234145/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/TldRuleSet.java
+END
+Embedded.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1175897/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/Embedded.java
+END
+CatalinaProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/CatalinaProperties.java
+END
+SetAllPropertiesRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/SetAllPropertiesRule.java
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1157949/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/LocalStrings_ja.properties
+END
+FailedContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1350247/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/FailedContext.java
+END
+LifecycleListenerRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/LifecycleListenerRule.java
+END
+UserDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/UserDatabase.java
+END
+HostConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1343337/tomcat/tc7.0.x/trunk/java/org/apache/catalina/startup/HostConfig.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1303700/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/group
+END
+TestGroupChannelOptionFlag.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1198560/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/group/TestGroupChannelOptionFlag.java
+END
+TestGroupChannelSenderConnections.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1303700/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/group/TestGroupChannelSenderConnections.java
+END
+TestGroupChannelStartStop.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1198560/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/group/TestGroupChannelStartStop.java
+END
+TestGroupChannelMemberArrival.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1303588/tomcat/tc7.0.x/trunk/test/org/apache/catalina/tribes/group/TestGroupChannelMemberArrival.java
+END

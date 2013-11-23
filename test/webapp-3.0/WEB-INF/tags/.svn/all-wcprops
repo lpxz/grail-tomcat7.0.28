@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0/WEB-INF/tags
+END
+bug49297.tag
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0/WEB-INF/tags/bug49297.tag
+END
+echo-deferred.tag
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0/WEB-INF/tags/echo-deferred.tag
+END
+echo.tag
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0/WEB-INF/tags/echo.tag
+END
+bug42390.tag
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0/WEB-INF/tags/bug42390.tag
+END
+implicit.tld
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0/WEB-INF/tags/implicit.tld
+END
+bug48668.tagx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0/WEB-INF/tags/bug48668.tagx
+END
+echo-double.tag
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0/WEB-INF/tags/echo-double.tag
+END
+echo-noel.tag
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0/WEB-INF/tags/echo-noel.tag
+END
+echo-long.tag
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-3.0/WEB-INF/tags/echo-long.tag
+END

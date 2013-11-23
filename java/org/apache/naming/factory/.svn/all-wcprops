@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1201610/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory
+END
+EjbFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory/EjbFactory.java
+END
+ResourceEnvFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory/ResourceEnvFactory.java
+END
+OpenEjbFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory/OpenEjbFactory.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory/Constants.java
+END
+BeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1201570/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory/BeanFactory.java
+END
+ResourceLinkFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory/ResourceLinkFactory.java
+END
+TransactionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory/TransactionFactory.java
+END
+MailSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory/MailSessionFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory/package.html
+END
+ResourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory/ResourceFactory.java
+END
+DataSourceLinkFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1201610/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory/DataSourceLinkFactory.java
+END
+SendMailFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/naming/factory/SendMailFactory.java
+END

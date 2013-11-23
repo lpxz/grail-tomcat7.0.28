@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1347036/tomcat/tc7.0.x/trunk/java/org/apache/catalina/security
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1200161/tomcat/tc7.0.x/trunk/java/org/apache/catalina/security/Constants.java
+END
+SecurityClassLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1347036/tomcat/tc7.0.x/trunk/java/org/apache/catalina/security/SecurityClassLoad.java
+END
+SecurityConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1200161/tomcat/tc7.0.x/trunk/java/org/apache/catalina/security/SecurityConfig.java
+END
+SecurityListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1200161/tomcat/tc7.0.x/trunk/java/org/apache/catalina/security/SecurityListener.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/security/LocalStrings.properties
+END
+SecurityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1201569/tomcat/tc7.0.x/trunk/java/org/apache/catalina/security/SecurityUtil.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/security/LocalStrings_es.properties
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/security/LocalStrings_fr.properties
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/security/LocalStrings_ja.properties
+END

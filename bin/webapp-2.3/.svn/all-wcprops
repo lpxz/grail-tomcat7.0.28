@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1198569/tomcat/tc7.0.x/trunk/test/webapp-2.3
+END
+tld-versions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-2.3/tld-versions.jsp
+END
+el-as-literal.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/webapp-2.3/el-as-literal.jsp
+END

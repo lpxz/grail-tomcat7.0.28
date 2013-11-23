@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1201569/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/util
+END
+BaseSessionComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/util/BaseSessionComparator.java
+END
+ReverseComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/util/ReverseComparator.java
+END
+SessionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1201569/tomcat/tc7.0.x/trunk/java/org/apache/catalina/manager/util/SessionUtils.java
+END

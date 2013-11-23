@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1336870/tomcat/tc7.0.x/trunk/test/org/apache/catalina/connector
+END
+TestResponsePerformance.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1336870/tomcat/tc7.0.x/trunk/test/org/apache/catalina/connector/TestResponsePerformance.java
+END
+TestCoyoteAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1198554/tomcat/tc7.0.x/trunk/test/org/apache/catalina/connector/TestCoyoteAdapter.java
+END
+TestMaxConnections.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1205086/tomcat/tc7.0.x/trunk/test/org/apache/catalina/connector/TestMaxConnections.java
+END
+TestRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1207695/tomcat/tc7.0.x/trunk/test/org/apache/catalina/connector/TestRequest.java
+END
+TesterMockRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1336870/tomcat/tc7.0.x/trunk/test/org/apache/catalina/connector/TesterMockRequest.java
+END
+TestConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1207695/tomcat/tc7.0.x/trunk/test/org/apache/catalina/connector/TestConnector.java
+END
+TestOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1240823/tomcat/tc7.0.x/trunk/test/org/apache/catalina/connector/TestOutputBuffer.java
+END
+TestKeepAliveCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1198554/tomcat/tc7.0.x/trunk/test/org/apache/catalina/connector/TestKeepAliveCount.java
+END
+TestResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1336870/tomcat/tc7.0.x/trunk/test/org/apache/catalina/connector/TestResponse.java
+END

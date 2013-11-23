@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1238397/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/modules
+END
+MbeansDescriptorsSerSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1238397/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/modules/MbeansDescriptorsSerSource.java
+END
+MbeansSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1238397/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/modules/MbeansSource.java
+END
+MbeansDescriptorsDOMSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1238397/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/modules/MbeansDescriptorsDOMSource.java
+END
+ModelerSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1238397/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/modules/ModelerSource.java
+END
+MbeansDescriptorsIntrospectionSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1238397/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/modules/MbeansDescriptorsIntrospectionSource.java
+END
+MbeansSourceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1238077/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/modules/MbeansSourceMBean.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/modules/package.html
+END
+MbeansDescriptorsDigesterSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1238397/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/modeler/modules/MbeansDescriptorsDigesterSource.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1342797/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/filters
+END
+GzipOutputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/filters/GzipOutputFilter.java
+END
+IdentityOutputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/filters/IdentityOutputFilter.java
+END
+SavedRequestInputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/filters/SavedRequestInputFilter.java
+END
+ChunkedInputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1342797/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/filters/ChunkedInputFilter.java
+END
+VoidInputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/filters/VoidInputFilter.java
+END
+BufferedInputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/filters/BufferedInputFilter.java
+END
+ChunkedOutputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/filters/ChunkedOutputFilter.java
+END
+VoidOutputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/filters/VoidOutputFilter.java
+END
+FlushableGZIPOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1200698/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/filters/FlushableGZIPOutputStream.java
+END
+IdentityInputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/coyote/http11/filters/IdentityInputFilter.java
+END

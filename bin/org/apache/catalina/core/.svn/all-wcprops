@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1355734/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core
+END
+ApplicationHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1188832/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationHttpResponse.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1297829/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/mbeans-descriptors.xml
+END
+StandardEngineValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardEngineValve.java
+END
+StandardWrapperFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardWrapperFacade.java
+END
+ApplicationTaglibDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationTaglibDescriptor.java
+END
+StandardPipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1303806/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardPipeline.java
+END
+ApplicationSessionCookieConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1240861/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationSessionCookieConfig.java
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/LocalStrings_ja.properties
+END
+ApplicationPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationPart.java
+END
+StandardHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1343337/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardHost.java
+END
+ThreadLocalLeakPreventionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ThreadLocalLeakPreventionListener.java
+END
+ApplicationJspPropertyGroupDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationJspPropertyGroupDescriptor.java
+END
+ApplicationFilterRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationFilterRegistration.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1347741/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/LocalStrings_es.properties
+END
+ApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1354667/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationContext.java
+END
+RestrictedServlets.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/RestrictedServlets.properties
+END
+ApplicationFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1201569/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationFilterChain.java
+END
+ApplicationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1195962/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationRequest.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/Constants.java
+END
+RestrictedListeners.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/RestrictedListeners.properties
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1347741/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/LocalStrings.properties
+END
+ApplicationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1188832/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationResponse.java
+END
+AsyncListenerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/AsyncListenerWrapper.java
+END
+NamingContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1190357/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/NamingContextListener.java
+END
+StandardEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1240796/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardEngine.java
+END
+JreMemoryLeakPreventionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1343897/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/JreMemoryLeakPreventionListener.java
+END
+StandardServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1305949/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardServer.java
+END
+JasperListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/JasperListener.java
+END
+ApplicationContextFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1201569/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationContextFacade.java
+END
+StandardHostValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1355734/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardHostValve.java
+END
+StandardWrapperValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1301255/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardWrapperValve.java
+END
+ApplicationFilterConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1201569/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationFilterConfig.java
+END
+ApplicationFilterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1201569/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationFilterFactory.java
+END
+StandardWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1241892/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardWrapper.java
+END
+ApplicationServletRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationServletRegistration.java
+END
+StandardContextValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1335700/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardContextValve.java
+END
+AccessLogAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/AccessLogAdapter.java
+END
+AsyncContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1201569/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/AsyncContextImpl.java
+END
+DefaultInstanceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1346377/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/DefaultInstanceManager.java
+END
+StandardContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1355734/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardContext.java
+END
+ApplicationJspConfigDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1213909/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationJspConfigDescriptor.java
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/LocalStrings_fr.properties
+END
+StandardThreadExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardThreadExecutor.java
+END
+AprLifecycleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1353504/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/AprLifecycleListener.java
+END
+ApplicationDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1345689/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationDispatcher.java
+END
+RestrictedFilters.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/RestrictedFilters.properties
+END
+ApplicationHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1195962/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ApplicationHttpRequest.java
+END
+ContainerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1352664/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/ContainerBase.java
+END
+StandardService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/core/StandardService.java
+END

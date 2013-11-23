@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1346675/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session
+END
+StoreBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/StoreBase.java
+END
+StandardSessionFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/StandardSessionFacade.java
+END
+TooManyActiveSessionsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1346675/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/TooManyActiveSessionsException.java
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/LocalStrings_ja.properties
+END
+PersistentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/PersistentManager.java
+END
+StandardManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1301272/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/StandardManager.java
+END
+FileStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1162172/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/FileStore.java
+END
+StandardSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1239138/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/StandardSession.java
+END
+ManagerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1346675/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/ManagerBase.java
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/LocalStrings_fr.properties
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/LocalStrings_es.properties
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/Constants.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/package.html
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1187869/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/LocalStrings.properties
+END
+JDBCStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/JDBCStore.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1229558/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/mbeans-descriptors.xml
+END
+PersistentManagerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/session/PersistentManagerBase.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1346795/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session
+END
+ClusterSessionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1300907/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/ClusterSessionListener.java
+END
+DeltaSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1327623/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/DeltaSession.java
+END
+JvmRouteBinderValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1187152/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/JvmRouteBinderValve.java
+END
+BackupManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1325135/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/BackupManager.java
+END
+DeltaRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/DeltaRequest.java
+END
+SessionIDMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/SessionIDMessage.java
+END
+LocalStrings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1187866/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/LocalStrings_es.properties
+END
+ClusterManagerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1346795/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/ClusterManagerBase.java
+END
+SerializablePrincipal.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1186071/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/SerializablePrincipal.java
+END
+SessionMessageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1195393/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/SessionMessageImpl.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/Constants.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1325135/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/LocalStrings.properties
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1346795/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/mbeans-descriptors.xml
+END
+DeltaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1300907/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/DeltaManager.java
+END
+JvmRouteSessionIDBinderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/JvmRouteSessionIDBinderListener.java
+END
+SessionMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1300907/tomcat/tc7.0.x/trunk/java/org/apache/catalina/ha/session/SessionMessage.java
+END

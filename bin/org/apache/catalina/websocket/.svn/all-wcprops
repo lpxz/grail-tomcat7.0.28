@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1354477/tomcat/tc7.0.x/trunk/java/org/apache/catalina/websocket
+END
+StreamInbound.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1349936/tomcat/tc7.0.x/trunk/java/org/apache/catalina/websocket/StreamInbound.java
+END
+WebSocketServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1354477/tomcat/tc7.0.x/trunk/java/org/apache/catalina/websocket/WebSocketServlet.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1301270/tomcat/tc7.0.x/trunk/java/org/apache/catalina/websocket/Constants.java
+END
+Utf8Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1301264/tomcat/tc7.0.x/trunk/java/org/apache/catalina/websocket/Utf8Decoder.java
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1354477/tomcat/tc7.0.x/trunk/java/org/apache/catalina/websocket/LocalStrings.properties
+END
+MessageInbound.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1301264/tomcat/tc7.0.x/trunk/java/org/apache/catalina/websocket/MessageInbound.java
+END
+WsFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1354472/tomcat/tc7.0.x/trunk/java/org/apache/catalina/websocket/WsFrame.java
+END
+WsInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1354472/tomcat/tc7.0.x/trunk/java/org/apache/catalina/websocket/WsInputStream.java
+END
+WsHttpServletRequestWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1354477/tomcat/tc7.0.x/trunk/java/org/apache/catalina/websocket/WsHttpServletRequestWrapper.java
+END
+WsOutbound.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1301270/tomcat/tc7.0.x/trunk/java/org/apache/catalina/websocket/WsOutbound.java
+END

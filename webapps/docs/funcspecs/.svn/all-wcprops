@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1243045/tomcat/tc7.0.x/trunk/webapps/docs/funcspecs
+END
+fs-admin-apps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/funcspecs/fs-admin-apps.xml
+END
+mbean-names.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/funcspecs/mbean-names.xml
+END
+fs-admin-opers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/funcspecs/fs-admin-opers.xml
+END
+fs-admin-objects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/funcspecs/fs-admin-objects.xml
+END
+fs-jdbc-realm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/funcspecs/fs-jdbc-realm.xml
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/funcspecs/project.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/funcspecs/index.xml
+END
+fs-jndi-realm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1243045/tomcat/tc7.0.x/trunk/webapps/docs/funcspecs/fs-jndi-realm.xml
+END
+fs-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/funcspecs/fs-default.xml
+END
+fs-memory-realm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/webapps/docs/funcspecs/fs-memory-realm.xml
+END

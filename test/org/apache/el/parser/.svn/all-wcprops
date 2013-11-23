@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1198564/tomcat/tc7.0.x/trunk/test/org/apache/el/parser
+END
+TestELParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1198564/tomcat/tc7.0.x/trunk/test/org/apache/el/parser/TestELParser.java
+END
+TesterBeanA.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/test/org/apache/el/parser/TesterBeanA.java
+END

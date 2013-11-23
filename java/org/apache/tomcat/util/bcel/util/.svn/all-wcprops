@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1181133/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/bcel/util
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/bcel/util/package.html
+END
+ByteSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1155369/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/bcel/util/ByteSequence.java
+END
+BCELComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1181133/tomcat/tc7.0.x/trunk/java/org/apache/tomcat/util/bcel/util/BCELComparator.java
+END
